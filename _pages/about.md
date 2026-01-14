@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Assistant at the [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/), The Chinese University of Hong Kong (CUHK). I received my Bachelor's degree in Software Engineering from the Harbin Institute of Technology, advised by [Prof. Zhiying Tu](https://homepage.hit.edu.cn/tzy). Previously, I worked with Prof. [Prof. Yue Feng](https://fengyue-leah.github.io/) during my research visit to the University of Birmingham. My research interests include Large Language Models (LLMs), Multimodal Models, and LLM-driven Agent Frameworks. 
+I am currently a Research Assistant at the [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/), The Chinese University of Hong Kong (CUHK), working with [Prof. Xiangyu Yue](https://xyue.io/). I received my Bachelor's degree in Software Engineering from the Harbin Institute of Technology, advised by [Prof. Zhiying Tu](https://homepage.hit.edu.cn/tzy).  My research interests include Large Language Models (LLMs), Multimodal Models, and LLM-driven Agent Frameworks. 
 
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
-- [Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation](https://arxiv.org/abs/2504.16073),Zhiyuan Hu, **Shiyun Xiong**, Yifan Zhang, See-Kiong Ng, Anh Tuan Luu, Bo An, YAN Shuicheng, Bryan Hooi, **Preprint**
 - [User-Oriented Fuzzy Requirement Clarification for Services Delivery in the Metaverse](https://ieeexplore.ieee.org/abstract/document/11216048), Bolin Zhang, Dianhui Chu(Member, IEEE), **Shiyun Xiong**, Qianjun Gong, and Zhiying Tu(Member, IEEE), **IEEE TRANSACTIONS ON SERVICES COMPUTING, 2025**
+- [Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation](https://arxiv.org/abs/2504.16073),Zhiyuan Hu, **Shiyun Xiong**, Yifan Zhang, See-Kiong Ng, Anh Tuan Luu, Bo An, YAN Shuicheng, Bryan Hooi, **Preprint**
 - [RealWeb: A Benchmark for Universal Instruction Following in Realistic Web Services Navigation](https://ieeexplore.ieee.org/abstract/document/10707522), B. Zhang, **S. Xiong**, D. Sui, Y. Xu, Z. Tu and D. Chu, **2024 IEEE International Conference on Web Services (ICWS)**
 
 
