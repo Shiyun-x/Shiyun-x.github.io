@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Shiyun Xiong"
-description              : "Undergraduate student at Harbin Institute of Technology, focusing on LLM research."
-repository               : "christinexc.github.io/sy/"
+description              : "Research Assistant at the Multimedia Laboratory, The Chinese University of Hong Kong."
+repository               : "shiyun-x.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shiyun Xiong"
   avatar           : "images/profile.png"
-  bio              : "Harbin Institute of Technology"
-  location         : "China"
+  bio              : "The Chinese University of Hong Kong"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xX2-CUYAAAAJ"

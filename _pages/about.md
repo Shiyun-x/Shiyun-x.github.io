@@ -22,7 +22,7 @@ I am currently a Research Assistant at the [Multimedia Laboratory (MMLab)](https
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
-- [Benchmark Everything Everywhere All at Once], **Shiyun Xiong**, Dongming Wu, Peiwen Sun, Yuang Ai, Bokang Yang, Wencheng Han, Xiao-Hui Li, Xiangyu Yue, **Under Review**
+- Benchmark Everything Everywhere All at Once, **Shiyun Xiong**, Dongming Wu, Peiwen Sun, Yuang Ai, Bokang Yang, Wencheng Han, Xiao-Hui Li, Xiangyu Yue, **Under Review**
 - [User-Oriented Fuzzy Requirement Clarification for Services Delivery in the Metaverse](https://ieeexplore.ieee.org/abstract/document/11216048), Bolin Zhang, Dianhui Chu(Member, IEEE), **Shiyun Xiong**, Qianjun Gong, and Zhiying Tu(Member, IEEE), **IEEE TRANSACTIONS ON SERVICES COMPUTING, 2025**
 - [Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation](https://arxiv.org/abs/2504.16073),Zhiyuan Hu, **Shiyun Xiong**, Yifan Zhang, See-Kiong Ng, Anh Tuan Luu, Bo An, YAN Shuicheng, Bryan Hooi, **Preprint**
 - [RealWeb: A Benchmark for Universal Instruction Following in Realistic Web Services Navigation](https://ieeexplore.ieee.org/abstract/document/10707522), B. Zhang, **S. Xiong**, D. Sui, Y. Xu, Z. Tu and D. Chu, **2024 IEEE International Conference on Web Services (ICWS)**
