@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Assistant at the [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/), The Chinese University of Hong Kong (CUHK), working with [Prof. Xiangyu Yue](https://xyue.io/). Before that, I received my Bachelor's degree in Software Engineering from the Harbin Institute of Technology, advised by [Prof. Zhiying Tu](https://homepage.hit.edu.cn/tzy).  My research interests include Large Language Models (LLMs), Multimodal Models(MLLMs), and LLM-driven Agent Frameworks. 
+I am currently a Research Assistant at the [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/), The Chinese University of Hong Kong (CUHK), working with [Prof. Xiangyu Yue](https://xyue.io/). Before that, I received my Bachelor's degree in Software Engineering from the Harbin Institute of Technology, where I was advised by [Prof. Zhiying Tu](https://homepage.hit.edu.cn/tzy).  My research interests include Large Language Models (LLMs), Multimodal Large Language Models (MLLMs), and LLM-driven agent frameworks. For more details about my completed and ongoing research projects, please see my [CV](https://shiyun-x.github.io/_pages/CV_shiyun.pdf).
 
 
 <span class='anchor' id='publications'></span>
