@@ -18,5 +18,5 @@ main:
   - title: "Skills"
     url: "/#skills"
 
-  - title: "CV"
-    url: "_pages/CV_shiyun.pdf"
+  # - title: "CV"
+  #   url: "_pages/CV_shiyun.pdf"

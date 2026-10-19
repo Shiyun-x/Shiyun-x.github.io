@@ -1,3 +1,14 @@
 _site/
 push.sh
 .DS_Store
+
+# Project-local preview environment and generated caches
+/.local/
+/.venv/
+/.bundle/
+/vendor/bundle/
+/.jekyll-cache/
+/.jekyll-metadata
+/.sass-cache/
+start-preview.ps1
+/docs/publications.md

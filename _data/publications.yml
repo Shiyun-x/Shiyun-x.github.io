@@ -1,0 +1,71 @@
+# All papers are displayed in the order of this file, without category headings.
+# Add a local image path when a figure is ready, e.g. /images/publications/benchmark-agent.png.
+# Authors and description support Markdown. Leave optional fields empty to hide them.
+- title: "Beyond Omni: A Unified MLLM for Embodied Sensory Understanding"
+  category: "Conference & Preprint"
+  venue: "Under Review"
+  authors: "**Shiyun Xiong**, Dongming Wu, Peiwen Sun, Bokang Yang, Jiaxu Wang, Xiaolou Sun, Mingxing Wen, Ruiqing Yin, Wang Geng, Xiao-Hui Li, Xiangyu Yue"
+  image: "/images/publications/beyond.png"
+  image_alt: "Beyond Omni: unified multimodal understanding across embodied sensory modalities"
+  description: "A unified MLLM that goes beyond seeing and hearing, integrating diverse sensory inputs for physical-world understanding."
+  links: []
+
+- title: "Benchmark Everything Everywhere All at Once"
+  category: "Conference & Preprint"
+  venue: "Under Review"
+  venue_full: "arXiv preprint arXiv:2606.06462"
+  authors: "**Shiyun Xiong**, Dongming Wu, Peiwen Sun, Yuang Ai, Bokang Yang, Wencheng Han, Xiao-Hui Li, Xiangyu Yue"
+  image: "/images/publications/benchmark_agent.png"
+  image_alt: "Benchmark Everything Everywhere All at Once overview"
+  description: "An autonomous agent that builds evaluation benchmarks from natural-language goals, covering task design, data annotation, and quality control."
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2606.06462"
+
+- title: "User-Oriented Fuzzy Requirement Clarification for Services Delivery in the Metaverse"
+  category: "Journal"
+  venue: "IEEE TSC"
+  venue_full: "IEEE Transactions on Services Computing, 2025"
+  authors: "Bolin Zhang, Dianhui Chu (Member, IEEE), **Shiyun Xiong**, Qianjun Gong, and Zhiying Tu (Member, IEEE)"
+  image: "/images/publications/fuzzy.png"
+  image_alt: "User-oriented fuzzy requirement clarification overview"
+  description: "A user-oriented framework that clarifies ambiguous service requirements through multi-turn dialogue, personalized questioning, and user simulation."
+  links:
+    - label: "Paper"
+      url: "https://ieeexplore.ieee.org/abstract/document/11216048"
+
+- title: "Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation"
+  category: "Conference & Preprint"
+  venue: "arXiv"
+  venue_full: "arXiv preprint arXiv:2504.16073"
+  authors: "Zhiyuan Hu, **Shiyun Xiong**, Yifan Zhang, See-Kiong Ng, Anh Tuan Luu, Bo An, YAN Shuicheng, Bryan Hooi"
+  image: "/images/publications/GUI_agent.png"
+  image_alt: "Guiding VLM agents with process rewards for GUI navigation overview"
+  description: "Inference-time process reward guidance helps VLM agents select better actions for GUI navigation without fine-tuning the agents."
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2504.16073"
+
+- title: "BehaviorSFT: Behavioral Token Conditioning for Health Agents Across the Proactivity Spectrum"
+  category: "Conference & Preprint"
+  venue: "EMNLP"
+  venue_full: "Findings of the Association for Computational Linguistics: EMNLP 2025"
+  authors: "Yubin Kim, Zhiyuan Hu, Hyewon Jeong, Eugene Park, Shuyue Stella Li, Chanwoo Park, **Shyun Xiong**, MingYu Lu, Hyeonhoon Lee, Xin Liu, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park"
+  image: "/images/publications/behavior.png"
+  image_alt: "BehaviorSFT overview"
+  description: "Behavioral token conditioning enables health agents to adapt between reactive responses and proactive assistance across clinical scenarios."
+  links:
+    - label: "Paper"
+      url: "https://aclanthology.org/2025.findings-emnlp.520.pdf"
+
+- title: "RealWeb: A Benchmark for Universal Instruction Following in Realistic Web Services Navigation"
+  category: "Conference & Preprint"
+  venue: "ICWS"
+  venue_full: "2024 IEEE International Conference on Web Services"
+  authors: "Bolin Zhang, **Shiyun Xiong**, Dianbo Sui, YunZhe Xu, Zhiying Tu, Dianhui Chu"
+  image: "/images/publications/realweb.png"
+  image_alt: "RealWeb benchmark overview"
+  description: "A benchmark for evaluating how web agents follow diverse natural-language instructions to navigate realistic web services."
+  links:
+    - label: "Paper"
+      url: "https://ieeexplore.ieee.org/abstract/document/10707522"
