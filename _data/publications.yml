@@ -4,11 +4,14 @@
 - title: "Beyond Omni: A Unified MLLM for Embodied Sensory Understanding"
   category: "Conference & Preprint"
   venue: "Under Review"
+  venue_full: "arXiv preprint arXiv:2610.26751"
   authors: "**Shiyun Xiong**, Dongming Wu, Peiwen Sun, Bokang Yang, Jiaxu Wang, Xiaolou Sun, Mingxing Wen, Ruiqing Yin, Wang Geng, Xiao-Hui Li, Xiangyu Yue"
   image: "/images/publications/beyond.png"
   image_alt: "Beyond Omni: unified multimodal understanding across embodied sensory modalities"
   description: "A unified MLLM that goes beyond seeing and hearing, integrating diverse sensory inputs for physical-world understanding."
-  links: []
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2610.26751"
 
 - title: "Benchmark Everything Everywhere All at Once"
   category: "Conference & Preprint"
